@@ -9,7 +9,7 @@ class ExpenseTrackerApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(debugShowCheckedModeBanner: false,
-      title: 'Expense Tracker App',
+      title: 'Budget Tracker App',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),

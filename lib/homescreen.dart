@@ -122,7 +122,7 @@ class _ExpenseTrackerHomePageState extends State<ExpenseTrackerHomePage> {
       appBar: AppBar(
         title: const Center(
             child: Text(
-              'Expense Tracker',
+              'Budget Tracker',
               style: TextStyle(fontWeight: FontWeight.w400),
             )),
         backgroundColor: const Color.fromRGBO(84, 52, 104, 1.0),
